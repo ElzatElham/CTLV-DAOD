@@ -6,7 +6,7 @@ This is the CTLV-DAOD datasets of the upcoming paper "Unsupervised Domain Adapta
 
 The full dataset will be made available after the associated research paper is accepted for publication. We appreciate your understanding and patience.  
 
-Download link：xxxxxx Verify Code：xxxx
+Download link：[baidupan](https://pan.baidu.com/s/1zYV8MFkJdasbch48EHyB3w?pwd=sto2 ) Verify Code：sto2
 
 It is welcomed to use our dataset. And if it is used in your research, please cite our paper. If you have any questions, please contact me by elzatelham@mail.sdu.edu.cn
 
