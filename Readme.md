@@ -39,4 +39,4 @@ Due to copyright and hospital regulations, we can currently only provide a porti
 
 This dataset is provided for research and educational purposes only. Please refer to the accompanying license for more information on usage rights and restrictions.  
 
-Thank you for your interest in our lumbar vertebrae CT image dataset!
+Thank you for your interest in CTLV-DAOD dataset!
