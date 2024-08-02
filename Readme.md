@@ -2,9 +2,13 @@
 
 ## Important Note on Data Access  
 
+This is the CTLV-DAOD datasets of the upcoming paper "Unsupervised Domain Adaptation of Object Detection in Axial CT Images of Lumbar Vertebrae".
+
 The full dataset will be made available after the associated research paper is accepted for publication. We appreciate your understanding and patience.  
 
 Download link：xxxxxx Verify Code：xxxx
+
+It is welcomed to use our dataset. And if it is used in your research, please cite our paper. If you have any questions, please contact me by elzatelham@mail.sdu.edu.cn
 
 ## Overview  
 
