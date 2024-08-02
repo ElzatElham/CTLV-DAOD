@@ -4,9 +4,13 @@
 
 The full dataset will be made available after the associated research paper is accepted for publication. We appreciate your understanding and patience.  
 
+Download link：xxxxxx Verify Code：xxxx
+
 ## Overview  
 
 This repository contains a dataset of lumbar vertebrae CT images collected from a retrospective study approved by the Ethics Committee at Tianjin Medical University General Hospital. The dataset includes images from 124 participants (77 females and 47 males) aged 63.1 ± 16.1 years (range: 24-90 years). The dataset is intended for research and educational purposes in the field of orthopedics.  
+
+
 
 ## Inclusion and Exclusion Criteria  
 
